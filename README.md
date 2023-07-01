@@ -10,7 +10,6 @@ Weather Dashboard is a web application that provides users with current weather 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technology Used](#technology-used)
-- [Contributing](#contributing)
 
 ## Features
 
