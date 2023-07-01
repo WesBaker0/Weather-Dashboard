@@ -2,7 +2,9 @@
 
 Weather Dashboard is a web application that provides users with current weather conditions and a 5-day forecast for a city of their choice.
 
-![Screenshot of Weather Dashboard](screenshot.png)
+URL of Deployment: https://wesbaker0.github.io/Weather-Dashboard/
+![Screenshot 2023-07-01 100648](https://github.com/WesBaker0/Weather-Dashboard/assets/131714206/9b2ba949-7255-4b25-8a03-febf9b6b99f1)
+
 
 ## Table of Contents
 
